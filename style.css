@@ -8,7 +8,7 @@ h1{
 .asd{
     color: orange;
 }
-section{
+.banner flexible-container{
     display: flex;
 }
 .range{
@@ -32,7 +32,7 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
